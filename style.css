@@ -1,0 +1,18 @@
+html {
+    margin: auto;
+    background-color: rgb(234, 176, 69);
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: black;
+    font-family: anton;
+    letter-spacing: 0.25em;
+    padding-top: 2rem;
+}
+
+#chicken-emoji {
+    font-size: 8em;
+}
+
