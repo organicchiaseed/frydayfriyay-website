@@ -8,11 +8,44 @@ h1 {
     text-transform: uppercase;
     color: black;
     font-family: anton;
-    letter-spacing: 0.25em;
+    letter-spacing: 0.20em;
     padding-top: 2rem;
 }
 
 #chicken-emoji {
-    font-size: 8em;
+    font-size: 6em;
 }
 
+.are-you-ready {
+    font-family: anton;
+    font-size: 1.25em;
+}
+
+#orange-button {
+    font-family: 'Bebas Neue';
+    font-size: 1.75em;
+    background-color: orange;
+    padding: 1em 2em;
+    border-radius: 10px;
+    border: 6px solid;
+}
+
+#orange-button:hover {
+    cursor: pointer;
+    font-weight:bolder;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.whats-your-style p {
+    font-family: anton;
+    padding-top: 1em;
+}
+
+.letsgo {
+    font-family: anton;
+    font-size: 5em;
+}
